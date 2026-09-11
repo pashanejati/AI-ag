@@ -1,3 +1,4 @@
+
 export const metadata = {
   title: "TechLap — دستیار فروش هوشمند",
   description: "نسخه واقعی و قابل هاست‌شدن دستیار فروش هوش مصنوعی",
